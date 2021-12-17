@@ -29,7 +29,7 @@ Using only the 10 most frequent classes (~8000 documents), splitting again by us
 
 
 ## To come: 
--More preprocessing (POS Tagger, stemming, Entity name recognition)
--Implement word embeddings (word2vec and FastText)
--Use more complicated models (LSTMs, and XGBoost models)
--Find a solution regarding the document count per class 
+-More preprocessing (POS Tagger, stemming, Entity name recognition)  
+-Implement word embeddings (word2vec and FastText)  
+-Use more complicated models (LSTMs, and XGBoost models)  
+-Find a solution regarding the document count per class   
